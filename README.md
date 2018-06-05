@@ -2,4 +2,4 @@
 
 A collection of ML algorithms and metrics coded from scratch for practice and fun. 
 
-Periodically updated. 
+Periodically updated based on available time. 
